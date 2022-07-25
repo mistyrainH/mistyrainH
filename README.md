@@ -1,3 +1,3 @@
-Learning spider
+Learning python_spider
 学习爬取豆瓣top250电影信息完成代码
 非原创
